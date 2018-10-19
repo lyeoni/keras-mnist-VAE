@@ -1,5 +1,5 @@
 # keras-mnist-VAE
-Variational AutoEncoder - Keras implementation with mnist dataset
+Variational AutoEncoder on the MNIST data set using the keras API
 
 ***
 # Dependencies
