@@ -2,7 +2,7 @@
 Variational AutoEncoder on the MNIST data set using the keras API
 
 ***
-# Dependencies
+## Dependencies
 - keras
 - tensorflow
 - numpy
@@ -10,7 +10,7 @@ Variational AutoEncoder on the MNIST data set using the keras API
 - matplotlib
 
 ***
-# Reference
+## Reference
 1. Building Autoencoders in Keras
 https://blog.keras.io/building-autoencoders-in-keras.html
 2. hwalsuklee/tensorflow-mnist-VAE
