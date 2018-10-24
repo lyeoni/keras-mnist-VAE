@@ -20,9 +20,9 @@ Variational AutoEncoder on the MNIST data set using the keras API
 
 
 ## Reference
-1. Auto-Encoding Variational Bayes(paper):
+1. Auto-Encoding Variational Bayes (paper): 
 https://arxiv.org/abs/1312.6114
-2. Building Autoencoders in Keras:
+2. Building Autoencoders in Keras (document): 
 https://blog.keras.io/building-autoencoders-in-keras.html
-3. hwalsuklee/tensorflow-mnist-VAE:
+3. hwalsuklee/tensorflow-mnist-VAE (github): 
 https://github.com/hwalsuklee/tensorflow-mnist-VAE/
